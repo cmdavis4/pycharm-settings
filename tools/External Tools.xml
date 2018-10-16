@@ -1,0 +1,14 @@
+<toolSet name="External Tools">
+  <tool name="Flake8" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/anaconda3/envs/dev3/bin/flake8" />
+      <option name="PARAMETERS" value="--format=abspath --max-line-length=120 $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+    <filter>
+      <option name="NAME" value="No name" />
+      <option name="DESCRIPTION" />
+      <option name="REGEXP" value="$FILE_PATH$:$LINE$:$COLUMN$" />
+    </filter>
+  </tool>
+</toolSet>
