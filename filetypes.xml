@@ -7,7 +7,6 @@
       <mapping pattern="privnfp_university_of_san_francisco.js" type="PLAIN_TEXT" />
       <mapping ext="jsonl" type="PLAIN_TEXT" />
       <mapping ext="luapy" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
