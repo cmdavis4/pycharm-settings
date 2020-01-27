@@ -3,10 +3,9 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="asdf" type="JavaScript" />
-      <mapping pattern="asdf.js" type="PLAIN_TEXT" />
-      <mapping pattern="privnfp_university_of_san_francisco.js" type="PLAIN_TEXT" />
       <mapping pattern=".gcloudignore" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping pattern="privnfp_university_of_san_francisco.js" type="PLAIN_TEXT" />
+      <mapping pattern="asdf.js" type="PLAIN_TEXT" />
       <mapping ext="jsonl" type="PLAIN_TEXT" />
       <mapping ext="luapy" type="PLAIN_TEXT" />
     </extensionMap>
