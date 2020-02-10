@@ -15,7 +15,7 @@
     <exec>
       <option name="COMMAND" value="$USER_HOME$/anaconda3/envs/pandas_log/bin/black" />
       <option name="PARAMETERS" value="&quot;$FilePath$&quot;" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
