@@ -3,7 +3,7 @@
     <property name="created">2020-02-10T11:58:40</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.2.0.0</property>
-    <property name="modified">2020-02-11T13:18:22</property>
+    <property name="modified">2020-02-11T14:04:15</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -29,4 +29,36 @@
     <option name="FILESTATUS_changelistConflict" value="" />
     <option name="FILESTATUS_modifiedOutside" value="cf6a4c" />
   </colors>
+  <attributes>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="597cc2" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="807d6e" />
+      </value>
+    </option>
+    <option name="INFO_ATTRIBUTES">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="666666" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="7092d0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="454122" />
+        <option name="ERROR_STRIPE_COLOR" value="c2a900" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
